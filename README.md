@@ -34,7 +34,6 @@ const gabriel: Developer = {
     frontend: ["React", "Next.js", "TypeScript", "Tailwind"],
     backend:  ["Node.js", "Express", "PHP", "Nest.js"],
     database: ["PostgreSQL", "MySQL", "Prisma"],
-    tools:    ["Git", "VS Code", "Figma"],
   },
 
   languages: {
