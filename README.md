@@ -50,7 +50,7 @@ const gabriel: Developer = {
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="45"> Tecnologias & Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,next,typescript,tailwind,nodejs,express,php,postgresql,mysql,git,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,next,typescript,tailwind,nodejs,express,php,postgresql,mysql,git,flutter,prisma,nest&theme=dark" />
 </div>
 
 <br/>
