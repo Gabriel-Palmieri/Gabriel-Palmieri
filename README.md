@@ -10,11 +10,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=4500&pause=1000&color=7A00FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;" alt="Typing SVG" />
 </div>
 
-<!-- Imagem original -->
-<div align="center">
-  <br>
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="center">
-</div>
+
 
 <br/>
 
