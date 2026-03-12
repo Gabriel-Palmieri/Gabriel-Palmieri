@@ -107,23 +107,6 @@ const gabriel: Developer = {
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="45"> Estatísticas GitHub
-
-
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-Palmieri&hide_border=true&background=0d1117&stroke=7A00FF&ring=7A00FF&fire=FF0080&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=7A00FF&currStreakNum=ffffff&sideNums=ffffff"/>
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="45"> Contribuições
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gabriel-Palmieri&bg_color=0d1117&color=7A00FF&line=7A00FF&point=FF0080&area=true&area_color=1a0533&hide_border=true&radius=8"/>
-</div>
-
----
-
 
 <!-- Footer original -->
 <div align="center">
