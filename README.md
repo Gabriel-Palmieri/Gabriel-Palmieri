@@ -1,110 +1,88 @@
-
-
-<!-- Header original -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,100:7A00FF&height=210&section=header&text=Gabriel%20Palmieri&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&descAlignY=55&descAlign=62&customColorList=6,11,20"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=180&section=header&text=Gabriel%20Palmieri&fontSize=46&fontColor=F0F6FC&fontAlignY=42&desc=Full%20Stack%20Developer&descSize=18&descAlignY=67&descAlign=50" alt="Gabriel Palmieri — Full Stack Developer" />
 </div>
 
-<!-- Typing animation original -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=4500&pause=1000&color=7A00FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;" alt="Typing SVG" />
+  Desenvolvedor focado em criar aplicações modernas, escaláveis e bem estruturadas.
 </div>
 
+<br />
 
-
-<br/>
-
----
-
-## ⚡ Sobre Mim
-
-<img align="right" width="38%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+## Sobre mim
 
 ```typescript
 const gabriel: Developer = {
-  name:     "Gabriel Palmieri",
-  role:     "Full Stack Developer",
-  location: "São Paulo, Brasil 🇧🇷",
+  name: "Gabriel Palmieri",
+  role: "Full Stack Developer",
+  location: "São Paulo, Brasil",
 
   stack: {
-    frontend: ["React", "Next.js", "TypeScript", "Tailwind"],
-    backend:  ["Node.js", "Express", "PHP", "Nest.js"],
+    frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+    backend: ["Node.js", "Express", "NestJS", "Python", "PHP"],
     database: ["PostgreSQL", "MySQL", "Prisma"],
   },
 
   languages: {
-    "🇧🇷 Português": "nativo",
-    "🇺🇸 English":   "intermediário",
+    portuguese: "Nativo",
+    english: "Intermediário",
   },
 };
 ```
 
-<br clear="right"/>
-
----
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="45"> Tecnologias & Ferramentas
+## Tecnologias e ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,next,typescript,tailwind,nodejs,express,php,postgresql,mysql,git,flutter,prisma,nest&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,express,nestjs,python,php,postgres,mysql,prisma,flutter,git&theme=dark" alt="React, Next.js, TypeScript, Tailwind CSS, Node.js, Express, NestJS, Python, PHP, PostgreSQL, MySQL, Prisma, Flutter e Git" />
 </div>
 
-<br/>
+<br />
 
-
-
----
-
-## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="45"> Projetos em Destaque
+## Projetos em destaque
 
 <div align="center">
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">💚 Saldo Verde</h3>
-      <div align="center">
-        <a href="https://github.com/Gabriel-Palmieri/Saldo_Verde" target="_blank">
-          <img src="https://img.shields.io/badge/View_Repository-7A00FF?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </div>
-      <br/>
-      <p align="center">
-        Aplicação de controle financeiro pessoal com dashboard intuitivo para gerenciar receitas e despesas.
-      </p>
-      <div align="center">
-        <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6"/>
-        <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=5FA04E"/>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">🪑 MobiliAI</h3>
-      <div align="center">
-        <a href="https://github.com/Guimenn/MobiliAI" target="_blank">
-          <img src="https://img.shields.io/badge/View_Repository-7A00FF?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </div>
-      <br/>
-      <p align="center">
-        Loja de móveis com IA: cliente envia foto do ambiente e o sistema sugere e visualiza móveis ideais em tempo real.
-      </p>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/NestJS-0d1117?style=flat-square&logo=nestjs&logoColor=E0234E"/>
-        <img src="https://img.shields.io/badge/OpenAI-0d1117?style=flat-square&logo=openai&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1"/>
-      </div>
-    </td>
-  </tr>
-</table>
-
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">Saldo Verde</h3>
+        <p align="center">
+          Aplicação de controle financeiro pessoal com um dashboard intuitivo para gerenciar receitas e despesas.
+        </p>
+        <div align="center">
+          <img src="https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+          <img src="https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+          <img src="https://img.shields.io/badge/Node.js-161B22?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+        </div>
+        <br />
+        <div align="center">
+          <a href="https://github.com/Gabriel-Palmieri/Saldo_Verde">
+            <img src="https://img.shields.io/badge/Ver_repositório-21262D?style=for-the-badge&logo=github&logoColor=F0F6FC" alt="Ver repositório Saldo Verde" />
+          </a>
+        </div>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center">MobiliAI</h3>
+        <p align="center">
+          Loja de móveis com IA que sugere e apresenta móveis adequados a partir de uma foto do ambiente.
+        </p>
+        <div align="center">
+          <img src="https://img.shields.io/badge/Next.js-161B22?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
+          <img src="https://img.shields.io/badge/NestJS-161B22?style=flat-square&logo=nestjs&logoColor=E0234E" alt="NestJS" />
+          <img src="https://img.shields.io/badge/OpenAI-161B22?style=flat-square&logo=openai&logoColor=FFFFFF" alt="OpenAI" />
+          <img src="https://img.shields.io/badge/PostgreSQL-161B22?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+        </div>
+        <br />
+        <div align="center">
+          <a href="https://github.com/Guimenn/MobiliAI">
+            <img src="https://img.shields.io/badge/Ver_repositório-21262D?style=for-the-badge&logo=github&logoColor=F0F6FC" alt="Ver repositório MobiliAI" />
+          </a>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
----
+<br />
 
-
-<!-- Footer original -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,100:7A00FF&height=120&section=footer&animation=twinkling&fontAlignY=65"/>
+  <sub>Construindo soluções com código, clareza e propósito.</sub>
 </div>
