@@ -11,21 +11,22 @@
 ## Sobre mim
 
 ```typescript
-const gabriel: Developer = {
-  name: "Gabriel Palmieri",
+const gabriel = {
   role: "Full Stack Developer",
+  education: "Software Engineering @ FIAP",
   location: "São Paulo, Brasil",
 
-  stack: {
-    frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-    backend: ["Node.js", "Express", "NestJS", "Python", "PHP"],
-    database: ["PostgreSQL", "MySQL", "Prisma"],
-  },
+  focus: [
+    "Web Applications",
+    "REST APIs",
+    "AI Integrations",
+  ],
 
-  languages: {
-    portuguese: "Nativo",
-    english: "Intermediário",
-  },
+  frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+  backend: ["Node.js", "NestJS", "Python", "PHP"],
+  databases: ["PostgreSQL", "MySQL"],
+  orm: ["Prisma"],
+
 };
 ```
 
@@ -41,6 +42,45 @@ const gabriel: Developer = {
 
 <div align="center">
   <table>
+     <tr>
+      <td colspan="2" valign="top">
+        <h3 align="center">Câmera Jovi</h3>
+        <p align="center">
+          Aplicação de estudos com IA que transforma fotos de lousas, cadernos
+          e exercícios em resumos, flashcards e resoluções. Inclui uma landing
+          page com apresentação dos recursos e da equipe.
+        </p>
+        <div align="center">
+          <img src="https://img.shields.io/badge/Next.js-161B22?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
+          <img src="https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+          <img src="https://img.shields.io/badge/Tailwind_CSS-161B22?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
+          <img src="https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
+          <img src="https://img.shields.io/badge/FastAPI-161B22?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" />
+          <img src="https://img.shields.io/badge/Tesseract.js_OCR-161B22?style=flat-square" alt="Tesseract.js — OCR" />
+          <img src="https://img.shields.io/badge/Lucide-161B22?style=flat-square&logo=lucide&logoColor=F56565" alt="Lucide" />
+          <img src="https://img.shields.io/badge/Playwright-161B22?style=flat-square" alt="Playwright" />
+        </div>
+        <br />
+        <div align="center">
+          <a href="https://front-camera-jovi.vercel.app/">
+            <img src="https://img.shields.io/badge/Abrir_aplica%C3%A7%C3%A3o-21262D?style=for-the-badge&logo=vercel&logoColor=F0F6FC" alt="Abrir aplicação Câmera Jovi" />
+          </a>
+          <a href="https://landingpage-iota-indol.vercel.app/">
+            <img src="https://img.shields.io/badge/Landing_page-21262D?style=for-the-badge&logo=vercel&logoColor=F0F6FC" alt="Acessar landing page Câmera Jovi" />
+          </a>
+        </div>
+        <br />
+        <div align="center">
+          <a href="https://github.com/CameraJovi/FrontCameraJovi">
+            <img src="https://img.shields.io/badge/Repo_aplica%C3%A7%C3%A3o-21262D?style=for-the-badge&logo=github&logoColor=F0F6FC" alt="Repositório da aplicação" />
+          </a>
+          <a href="https://github.com/CameraJovi/Landingpage">
+            <img src="https://img.shields.io/badge/Repo_landing_page-21262D?style=for-the-badge&logo=github&logoColor=F0F6FC" alt="Repositório da landing page" />
+          </a>
+        </div>
+        <br />
+      </td>
+    </tr>
     <tr>
       <td width="50%" valign="top">
         <h3 align="center">Saldo Verde</h3>
@@ -55,7 +95,7 @@ const gabriel: Developer = {
         <br />
         <div align="center">
           <a href="https://github.com/Gabriel-Palmieri/Saldo_Verde">
-            <img src="https://img.shields.io/badge/Ver_repositório-21262D?style=for-the-badge&logo=github&logoColor=F0F6FC" alt="Ver repositório Saldo Verde" />
+            <img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-21262D?style=for-the-badge&logo=github&logoColor=F0F6FC" alt="Ver repositório Saldo Verde" />
           </a>
         </div>
       </td>
@@ -73,7 +113,7 @@ const gabriel: Developer = {
         <br />
         <div align="center">
           <a href="https://github.com/Guimenn/MobiliAI">
-            <img src="https://img.shields.io/badge/Ver_repositório-21262D?style=for-the-badge&logo=github&logoColor=F0F6FC" alt="Ver repositório MobiliAI" />
+            <img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-21262D?style=for-the-badge&logo=github&logoColor=F0F6FC" alt="Ver repositório MobiliAI" />
           </a>
         </div>
       </td>
