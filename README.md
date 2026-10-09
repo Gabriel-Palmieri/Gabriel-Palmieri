@@ -2,39 +2,34 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=180&section=header&text=Gabriel%20Palmieri&fontSize=46&fontColor=F0F6FC&fontAlignY=42&desc=Full%20Stack%20Developer&descSize=18&descAlignY=67&descAlign=50" alt="Gabriel Palmieri — Full Stack Developer" />
 </div>
 
-<div align="center">
-  Desenvolvedor focado em criar aplicações modernas, escaláveis e bem estruturadas.
-</div>
-
 <br />
 
 ## Sobre mim
+Trabalho com interfaces, APIs e aplicações mobile <br>
+Sou formado em **Análise e Desenvolvimento de Sistemas pelo SENAI** e atualmente curso **Engenharia de Software na FIAP**.
 
-```typescript
-const gabriel = {
-  role: "Full Stack Developer",
-  education: "Software Engineering @ FIAP",
-  location: "São Paulo, Brasil",
-
-  focus: [
-    "Web Applications",
-    "REST APIs",
-    "AI Integrations",
-  ],
-
-  frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-  backend: ["Node.js", "NestJS", "Python", "PHP"],
-  databases: ["PostgreSQL", "MySQL"],
-  orm: ["Prisma"],
-
-};
-```
 
 ## Tecnologias e ferramentas
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,express,nestjs,python,php,postgres,mysql,prisma,flutter,git&theme=dark" alt="React, Next.js, TypeScript, Tailwind CSS, Node.js, Express, NestJS, Python, PHP, PostgreSQL, MySQL, Prisma, Flutter e Git" />
-</div>
+### Front-end
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind&theme=dark" alt="React, Next.js, TypeScript e Tailwind CSS" />
+
+### Back-end
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,php&theme=dark" alt="Node.js, Express, NestJS, Python e PHP" />
+
+### Mobile
+
+<img src="https://skillicons.dev/icons?i=react,flutter&theme=dark" alt="React Native e Flutter" />
+
+### Bancos de dados e ORM
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,prisma&theme=dark" alt="PostgreSQL, MySQL e Prisma" />
+
+### Versionamento
+
+<img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" />
 
 <br />
 
